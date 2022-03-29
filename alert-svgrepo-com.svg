@@ -1,5 +1,5 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
-	 height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="512px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
 <style type="text/css">
 	.avocado_een{fill:#231F20;}
 	.avocado_zeven{fill:#788287;}
@@ -22,7 +22,7 @@
 </style>
 <g id="LABELS">
 </g>
-<g id="Uploaded to svgrepo.com">
+<g>
 	<g>
 		<polygon class="avocado_zeven" points="2.93,29.5 3.729,25.5 28.59,25.5 29.39,29.5 		"/>
 		<path class="avocado_zeventien" d="M4.862,25.5L6.206,9.377C6.527,5.521,9.811,2.5,13.681,2.5h4.958
